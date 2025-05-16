@@ -1,0 +1,20 @@
+{
+  "name": "json-csv-convert",
+  "version": "1.0.0",
+  "description": "This repository contains multiple CLI tools for converting files between CSV and JSON formats, including both minimal and interactive versions.",
+  "main": "index.js",
+  "bin": {},
+  "keywords": [
+    "csv",
+    "json",
+    "convert",
+    "cli",
+    "tools"
+  ],
+  "author": "Chris Moran",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"No tests defined for root package\" && exit 0"
+  },
+  "private": true
+}

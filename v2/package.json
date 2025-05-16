@@ -1,0 +1,21 @@
+{
+  "name": "json-csv-convert-v2",
+  "version": "2.0.0",
+  "description": "Convert CSV and JSON files with interactive options to select, rename, and filter columns, as well as deduplicate records during conversion.",
+  "main": "index.js",
+  "bin": {
+    "csvjsonv2": "./bin/convert.js"
+  },
+  "keywords": [
+    "node",
+    "csv",
+    "json",
+    "convert",
+    "cli"
+  ],
+  "author": "Chris",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
