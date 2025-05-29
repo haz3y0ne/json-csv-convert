@@ -1,6 +1,6 @@
 {
   "name": "json-csv-convert-v1",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fast, minimal CLI tool to convert between CSV and JSON formats with optional per-record transformation and clean output.",
   "main": "convert.js",
   "bin": {

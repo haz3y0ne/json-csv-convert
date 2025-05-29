@@ -1,5 +1,9 @@
 # Convert JSON ↔ CSV
 
+[![npm v1](https://img.shields.io/npm/v/json-csv-convert-v1?label=json-csv-convert-v1)](https://www.npmjs.com/package/json-csv-convert-v1)
+[![npm v2](https://img.shields.io/npm/v/json-csv-convert-v2?label=json-csv-convert-v2)](https://www.npmjs.com/package/json-csv-convert-v2)
+[![GitHub repo](https://img.shields.io/badge/github-haz3y0ne%2Fjson--csv--convert-blue?logo=github)](https://github.com/haz3y0ne/json-csv-convert)
+
 This repository contains CLI utilities for converting files between CSV and JSON formats.
 
 ## Versions
@@ -11,6 +15,8 @@ This repository contains CLI utilities for converting files between CSV and JSON
 - Optional per-record transform
 - No user interaction
 
+[![npm v1](https://img.shields.io/npm/v/json-csv-convert-v1)](https://www.npmjs.com/package/json-csv-convert-v1)
+
 ### 🔹 [JSON-CSV-Convert v2](./v2/)
 
 - Modular, interactive CLI
@@ -18,6 +24,8 @@ This repository contains CLI utilities for converting files between CSV and JSON
 - Header renaming
 - Duplicate filtering
 - Fully extensible
+
+[![npm v2](https://img.shields.io/npm/v/json-csv-convert-v2)](https://www.npmjs.com/package/json-csv-convert-v2)
 
 ---
 
