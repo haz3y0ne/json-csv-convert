@@ -1,6 +1,6 @@
 # Convert V2
 
-**Convert V2** (npm package `json-csv-convert`) is a fast, interactive CLI for converting between CSV and JSON. It adds zero-configuration interactivity for:
+**Convert V2** (npm package `json-csv-convert-v2`) is a fast, interactive CLI for converting between CSV and JSON. It adds zero-configuration interactivity for:
 
 - Selecting columns/properties to keep or delete
 - Remapping column/property names
@@ -24,10 +24,10 @@ npm link
 
 ```bash
 # Run interactive converter:
-json-csv-convert <inputFile> <outputFileOrDir>
+json-csv-convert-v2 <inputFile> <outputFileOrDir>
 
 # Example:
-json-csv-convert users.csv ./out
+json-csv-convert-v2 users.csv ./out
 ```
 
 ### Interactive Workflow
@@ -63,7 +63,7 @@ You can bypass prompts with named options:
 **Example (one-liner)**:
 
 ```bash
-json-csv-convert data.csv data.json \
+json-csv-convert-v2 data.csv data.json \
   --format json \
   --keep id,name,email \
   --remap email:contactEmail \
