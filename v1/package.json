@@ -4,7 +4,7 @@
   "description": "Fast, minimal CLI tool to convert between CSV and JSON formats with optional per-record transformation and clean output.",
   "main": "convert.js",
   "bin": {
-    "convertcsv-v1": "./convert.js"
+    "json-csv-convert-v1": "./bin/convert.js"
   },
   "keywords": [
     "node",
@@ -13,7 +13,7 @@
     "convert",
     "cli"
   ],
-  "author": "Chris",
+  "author": "Chris Moran",
   "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

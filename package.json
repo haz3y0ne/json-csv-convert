@@ -1,9 +1,11 @@
 {
   "name": "json-csv-convert",
   "version": "1.0.0",
-  "description": "This repository contains multiple CLI tools for converting files between CSV and JSON formats, including both minimal and interactive versions.",
+  "description": "This repository contains two versions of a CLI tool for converting files between CSV and JSON formats, including both minimal (v1) and interactive (v2) versions.",
   "main": "index.js",
-  "bin": {},
+  "scripts": {
+    "test": "echo \"No tests defined for root package\" && exit 0"
+  },
   "keywords": [
     "csv",
     "json",
@@ -11,10 +13,24 @@
     "cli",
     "tools"
   ],
-  "author": "Chris Moran",
-  "license": "MIT",
-  "scripts": {
-    "test": "echo \"No tests defined for root package\" && exit 0"
+  "author": {
+    "name": "Chris Moran",
+    "url": "https://github.com/haz3y0ne/json-csv-convert"
   },
-  "private": true
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haz3y0ne/json-csv-convert.git"
+  },
+  "bugs": {
+    "url": "https://github.com/haz3y0ne/json-csv-convert/issues"
+  },
+  "homepage": "https://github.com/haz3y0ne/json-csv-convert#readme",
+  "files": [
+    "v1/",
+    "v2/"
+  ],
+  "engines": {
+    "node": ">=14"
+  }
 }

@@ -51,7 +51,7 @@ async function convertFile(
   await fs.writeFile(outputPath, outStr, "utf8");
   const end = performance.now();
   console.log(
-    `✓ ${records.length} records  |  ${(end - start) / (1000).toFixed(2)}s`
+    `✓ ${records.length} records  |  ${((end - start) / 1000).toFixed(2)}s`
   );
 }
 

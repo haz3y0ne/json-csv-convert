@@ -1,0 +1,40 @@
+# Root .gitignore for json-csv-convert repository
+
+# Node dependencies
+/node_modules/
+
+# Build outputs (if any)
+/v1/dist/
+/v1/build/
+/v1/lib/
+/v2/dist/
+/v2/build/
+/v2/lib/
+*.tsbuildinfo
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+*.log
+
+# Environment files
+.env
+.env.*.local
+
+# IDE / Editor
+.vscode/
+.idea/
+*.code-workspace
+.history/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
