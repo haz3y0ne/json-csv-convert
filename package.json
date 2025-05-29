@@ -22,9 +22,6 @@
     "type": "git",
     "url": "git+https://github.com/haz3y0ne/json-csv-convert.git"
   },
-  "bugs": {
-    "url": "https://github.com/haz3y0ne/json-csv-convert/issues"
-  },
   "homepage": "https://github.com/haz3y0ne/json-csv-convert#readme",
   "files": [
     "v1/",
