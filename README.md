@@ -16,6 +16,7 @@ This repository contains CLI utilities for converting files between CSV and JSON
 - No user interaction
 
 [![npm v1](https://img.shields.io/npm/v/json-csv-convert-v1)](https://www.npmjs.com/package/json-csv-convert-v1)
+[![npm downloads v1](https://img.shields.io/npm/dw/json-csv-convert-v1?label=weekly%20downloads)](https://www.npmjs.com/package/json-csv-convert-v1)
 
 ### 🔹 [JSON-CSV-Convert v2](./v2/)
 
@@ -26,6 +27,7 @@ This repository contains CLI utilities for converting files between CSV and JSON
 - Fully extensible
 
 [![npm v2](https://img.shields.io/npm/v/json-csv-convert-v2)](https://www.npmjs.com/package/json-csv-convert-v2)
+[![npm downloads v2](https://img.shields.io/npm/dw/json-csv-convert-v2?label=weekly%20downloads)](https://www.npmjs.com/package/json-csv-convert-v2)
 
 ---
 
