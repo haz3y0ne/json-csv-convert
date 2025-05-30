@@ -7,13 +7,6 @@ assignees: haz3y0ne
 
 ---
 
----
-name: "✨ Bug Report"
-about: Submit a bug report for either version of the JSON ↔ CSV CLI tools
-title: "[Bug] "
-labels: bug
----
-
 ### Which version?
 
 - [ ] json-csv-convert-v1  
